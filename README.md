@@ -31,4 +31,4 @@ Adicione `config.py` no `.gitignore` para evitar subir sua chave da API para o G
 
 ---
 
-Desenvolvido com 💡 por [SeuNome]
+Desenvolvido com 💡 por Victor Furumoto Puttomatti
